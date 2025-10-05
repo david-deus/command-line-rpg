@@ -63,3 +63,45 @@ Your HP: 20/20 | Goblin HP: 10
 You hit Goblin for 6 damage!
 Goblin hits you for 3 damage.
 ```
+
+## 🤝 Contributing
+
+Contributions are welcome and encouraged!
+If you’d like to improve the game, add new features, or refactor code — here’s how to get started:
+
+1. Fork the repo
+
+2. Create a new branch
+
+``` git checkout -b feature/new-feature ```
+
+3. Make your changes
+
+4. Test your changes
+
+5. Commit and push
+```
+git commit -m "Add: new feature"
+git push origin feature/new-feature
+```
+4. Open a Pull Request
+
+## 🧩 Ideas for Contributors
+
+- Add new enemy types or bosses
+- Improve combat mechanics
+- Implement a shop system
+- Add save/load functionality
+- Create quests or dialogue trees
+- Add colored output or sound effects
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+## 💬 Acknowledgements
+
+Made with ❤️ by David and the open-source community.
+Inspired by old-school ASCII RPGs and text adventures.
+
+> "In the darkness of the terminal, the bravest code their destiny."
